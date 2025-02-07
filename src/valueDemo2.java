@@ -10,7 +10,7 @@ public class valueDemo2 {
 
         int a = 10;
         double b = 10.1;
-        System.out.println(String.format("%d\t%.1f", a, b)); // 10 10.1
+        System.out.printf("%d\t%.1f%n", a, b); // 10 10.1
         System.out.println(a); // 10
         System.out.println(b); // 10.1
 
