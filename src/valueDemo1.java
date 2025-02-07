@@ -17,6 +17,10 @@ public class valueDemo1 {
         System.out.println("尼古拉斯李沐恩");
         System.out.println("杭州");
 
+        // 字符
+        System.out.println('男');
+        System.out.println('女');
+
         // 布尔
         System.out.println(true);
         System.out.println(false);
